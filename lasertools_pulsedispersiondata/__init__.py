@@ -1,4 +1,4 @@
 """Initialization"""
 
-from pulsedispersiondatadev.loader import *
-from pulsedispersiondatadev.helpers import *
+from lasertools_pulsedispersiondata.loader import *
+from lasertools_pulsedispersiondata.helpers import *
