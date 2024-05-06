@@ -20,7 +20,7 @@ setup(
       'Programming Language :: Python :: 3.9',
     ],
     package_data={
-        "pulsedispersiondatadev": [
+        "lasertools_pulsedispersiondata": [
             "*/*.json"
         ],
     },
